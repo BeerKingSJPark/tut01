@@ -83,6 +83,7 @@ void main() {
 ## mbti
 ESTJ
 <img width="832" height="505" alt="image" src="https://github.com/user-attachments/assets/f6a0c8ce-d71a-467e-9564-ce4e71e61ce1" />
+
 논리가 약하면 저를 설득시키기 어렵습니다. 
 
 ## 인용문
